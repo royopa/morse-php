@@ -4,6 +4,7 @@ Morse is a feature detection library for PHP code that needs to run in multiple 
 
 [![Build Status](https://travis-ci.org/drewm/morse-php.svg?branch=master)](https://travis-ci.org/drewm/morse-php) 
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/drewm/morse-php/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/drewm/morse-php/?branch=master)
+[![Latest Stable Version](https://poser.pugx.org/drewm/morse-php/version)](https://packagist.org/packages/drewm/morse-php) [![Latest Unstable Version](https://poser.pugx.org/drewm/morse-php/v/unstable)](//packagist.org/packages/drewm/morse-php) [![Total Downloads](https://poser.pugx.org/drewm/morse-php/downloads)](https://packagist.org/packages/drewm/morse-php)
 
 Supports PHP 5.3 and up.
 
