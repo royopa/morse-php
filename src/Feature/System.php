@@ -49,4 +49,8 @@ class System extends \DrewM\Morse\Feature
 		return self::functionAvailable('proc_open');
 	}
 
+    	public function testPosix()
+    	{
+		return self::functionAvailable('posix_getuid');
+	}
 }

@@ -30,7 +30,7 @@ use \DrewM\Morse\Morse;
 
 if (Morse::featureExists('http/curl')) {
 	// use curl
-}else{
+} else {
 	// use sockets
 }
 ```
@@ -131,6 +131,8 @@ Feature detection tests currently exist for the following:
 	- imagick
 - number
 	- bigint
+- posix
+	- posix_getuid
 - protocol
 	- ldap
 - system
@@ -139,6 +141,7 @@ Feature detection tests currently exist for the following:
 	- ini_set
 	- passthru
 	- popen
+	- posix
 	- proc_open
 	- set_time_limit
 	- shell_exec
